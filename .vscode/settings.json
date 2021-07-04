@@ -1,4 +1,5 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "jira-plugin.workingProject": ""
 }
